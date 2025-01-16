@@ -12,59 +12,59 @@
     <description>These are my personal notes for an adventure.</description>
     <pubDate>Thu, 16 Jan 2025 18:44:04 GMT</pubDate>
   </item><item>
-    <title>Factions</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/2.-NPCs-and-Factions/Factions</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/2.-NPCs-and-Factions/Factions</guid>
-    <description></description>
-    <pubDate>Tue, 14 Jan 2025 22:49:12 GMT</pubDate>
-  </item><item>
-    <title>Central Conflicts</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/1.-Adventure-Overview/Central-Conflicts</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/1.-Adventure-Overview/Central-Conflicts</guid>
-    <description>Margos of the Maw and is raiding band are threatening travelers and farmers in the region of Aklieos. Hekatos and his disciples have descended to the lower levels of the Temple of Demeter to break the seal on the Inner Sanctum and bind the demons.</description>
-    <pubDate>Tue, 14 Jan 2025 22:36:06 GMT</pubDate>
-  </item><item>
-    <title>Background</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/1.-Adventure-Overview/Background</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/1.-Adventure-Overview/Background</guid>
-    <description>Hundreds of years ago, the Temple of Demeter was the center of the Aklieos region. The fertile soils and access to the river Lyos provided abundance to local farmers.</description>
-    <pubDate>Tue, 14 Jan 2025 22:35:56 GMT</pubDate>
-  </item><item>
-    <title>The Temple of Demeter</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/The-Temple-of-Demeter</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/The-Temple-of-Demeter</guid>
-    <description></description>
-    <pubDate>Tue, 14 Jan 2025 22:32:06 GMT</pubDate>
-  </item><item>
-    <title>The Area around the Temple</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/3.-Surrounding-Area/The-Area-around-the-Temple</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/3.-Surrounding-Area/The-Area-around-the-Temple</guid>
-    <description>id: AreaTemple ### Must be unique with no spaces image: [[riverside-ruins-2.webp]] ### Link to the map image file bounds: [[0,0], [600,464]] ### Size of the map in px Width_x, Height_y ...</description>
-    <pubDate>Tue, 14 Jan 2025 22:17:07 GMT</pubDate>
-  </item><item>
-    <title>Level 3</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-3</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-3</guid>
-    <description></description>
-    <pubDate>Tue, 14 Jan 2025 22:08:17 GMT</pubDate>
-  </item><item>
     <title>NPCs</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/2.-NPCs-and-Factions/NPCs</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/2.-NPCs-and-Factions/NPCs</guid>
-    <description>Margos of the Maw Borgrum is a fat and smelly Ogre that leads The Gulfak Marauders. OgreArmor Class:15 (12)Hit Dice:4+1No. of Attacks:1 huge weaponDamage:2d6Movement:30’ Unarmored 40’No.</description>
-    <pubDate>Tue, 14 Jan 2025 21:57:39 GMT</pubDate>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/NPCs</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/NPCs</guid>
+    <description>Giacomo Cafarelli Scribe and magic-user in Bruckstadt. Always looking for interesting magical items on behalf of the Der Hermetische Kristallbund. Jeka Garcia Mercenary leader and spirit medium.</description>
+    <pubDate>Wed, 15 Jan 2025 12:05:48 GMT</pubDate>
   </item><item>
-    <title>Level 4</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-4</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-4</guid>
-    <description></description>
-    <pubDate>Tue, 14 Jan 2025 21:54:23 GMT</pubDate>
+    <title>Faction Developments</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/Faction-Developments</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/Faction-Developments</guid>
+    <description>The Wolfguard frees Bruckstadt from the threat of the Saint, gaining the favor of Count Reuben. The Wolfguard claims Castle Aarhorst as their base, but Jeka Garcia and gets away and swears vengeance.</description>
+    <pubDate>Wed, 15 Jan 2025 11:56:05 GMT</pubDate>
   </item><item>
-    <title>Level 2</title>
-    <link>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-2</link>
-    <guid>https://quartz.jzhao.xyz/The-Profane-Temple-of-Demeter/4.-The-Temple-of-Demeter/Level-2</guid>
-    <description> Room 2 The room has 3 Bugbears lying in wait to ambush any intruders. Bugbear Name description. AC [] HD ?(?hp) Attacks 1 x ? (1d6) THAC0 20[+0] Movement ’(’) ST D10 W10 P10 B10 S10 Morale ? Alignment Chaotic/Neutral/Lawful XP ? Number Appearing 1d6 (2d6) Treasure Type ? Special: description of special effect.</description>
-    <pubDate>Tue, 14 Jan 2025 21:54:13 GMT</pubDate>
+    <title>Domain rules</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/5.-Domain-Game/Domain-rules</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/5.-Domain-Game/Domain-rules</guid>
+    <description>Rules: Every month, a domain turn happens (includes population changes, morale changes, tax collection, domain events, expansion). Expansion phase: Hire Scouts to explore adjacent hexes.</description>
+    <pubDate>Wed, 15 Jan 2025 03:44:22 GMT</pubDate>
+  </item><item>
+    <title>Baphomet&#039;s Son</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/Baphomet's-Son</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/Baphomet's-Son</guid>
+    <description> Cafarelli and the Kristallbund are also interested buyers. Doesn’t want that Eberle or Lutz von Groeten get it. Would even pay to have them killed. Bonifaz and his assassins will follow the party, spy on them and fight them.</description>
+    <pubDate>Wed, 15 Jan 2025 01:21:46 GMT</pubDate>
+  </item><item>
+    <title>Hex Locations</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/4.-Locations/Hex-Locations</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/4.-Locations/Hex-Locations</guid>
+    <description>...</description>
+    <pubDate>Wed, 15 Jan 2025 01:21:24 GMT</pubDate>
+  </item><item>
+    <title>Factions</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/Factions</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/2.-NPCs-and-Factions/Factions</guid>
+    <description>The Catholic League Central location is Würzburg and the Southern towns. Wants to kill heretics and witches (will pay) Confront the Protestants Find Catholic artifacts (hires mentzer’s Irregulars) Find demon worshippers Find weapons / artillery / gunpowder Spy missions King Gustav of Sweden and the Protestants The city of Nordhausen, Metz Loot monasteries Kidnap the archbishop Find weapons / artillery / gunpowder Spy missions Count Reuben of Bruckstadt Protect Bruckstadt Be neutral The Malevols Have left the region due to the violence, Castle Xyntillan is abandoned.</description>
+    <pubDate>Wed, 15 Jan 2025 01:20:48 GMT</pubDate>
+  </item><item>
+    <title>Call of the Toad</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/Call-of-the-Toad</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/Call-of-the-Toad</guid>
+    <description>Hook At a junk market in Bruckstadt, a tattered diary fell into their hands. A small booklet bound in scuffed leather, in which someone had written down in neat handwriting his life as a merchant’s employee.</description>
+    <pubDate>Wed, 15 Jan 2025 01:19:38 GMT</pubDate>
+  </item><item>
+    <title>The Saint of Bruckstadt</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/The-Saint-of-Bruckstadt</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/3.-Module-Notes/The-Saint-of-Bruckstadt</guid>
+    <description>Hook PCs are part of a larger mercenary company that was routed at the Battle of Magdeburg. The leading officers of the Company have been killed or captured—you are no win charge.</description>
+    <pubDate>Wed, 15 Jan 2025 01:19:08 GMT</pubDate>
+  </item><item>
+    <title>Setting Information</title>
+    <link>https://quartz.jzhao.xyz/HRE-Campaign/1.-General-Game-Notes/Setting-Information</link>
+    <guid>https://quartz.jzhao.xyz/HRE-Campaign/1.-General-Game-Notes/Setting-Information</guid>
+    <description> Pseudo-European, set in and around the time of the Thirty Years’ War (1618-1648). Human-centric but all advanced OSE races exist throughout Europe, with varying frequency, e.g., Elvish populations are slightly larger in Ireland, France, and Wallachia, dwarves in Switzerland, the Habsburg Empire, and Scandinavia.</description>
+    <pubDate>Wed, 15 Jan 2025 01:18:33 GMT</pubDate>
   </item>
     </channel>
   </rss>
