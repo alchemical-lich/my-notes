@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>🪴 Quartz 4.0</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Second things</title>
+    <link>https://quartz.jzhao.xyz/Test/Second-things</link>
+    <guid>https://quartz.jzhao.xyz/Test/Second-things</guid>
+    <description>--- title: &quot;How to publish Obsidian notes with Quartz on GitHub Pages&quot; draft: false tags: - --- more blaablaa.</description>
+    <pubDate>Thu, 16 Jan 2025 18:49:52 GMT</pubDate>
+  </item><item>
+    <title>First things</title>
+    <link>https://quartz.jzhao.xyz/Test/First-things</link>
+    <guid>https://quartz.jzhao.xyz/Test/First-things</guid>
+    <description>--- title: &quot;How to publish Obsidian notes with Quartz on GitHub Pages&quot; draft: false tags: - --- blabla bla.</description>
+    <pubDate>Thu, 16 Jan 2025 18:49:28 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>This is a blank Quartz installation. See the documentation for how to get started.</description>
+    <pubDate>Thu, 16 Jan 2025 18:44:04 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
